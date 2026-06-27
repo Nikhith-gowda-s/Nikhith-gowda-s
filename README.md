@@ -21,7 +21,7 @@ University:         JAIN (Deemed-to-be University) | CSE, 3rd Year
 Specialization:     Cyber-Physical Systems (CPS)
 Currently_learning: [Python, OT/ICS Security, AI/ML, Git]
 Interning_at:       Jain University - Corporate Relations
-Goal:               Placement-ready by 2027 | Cybersecurity + AI Systems
+Goal:               Placement-ready by 2028 | Cybersecurity + AI Systems
 Mission:            Build things that help people with limited access to tech
 ```
 
@@ -59,17 +59,6 @@ Mission:            Build things that help people with limited access to tech
 
 ---
 
-### 🚀 Projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| [VarnaNexus](https://github.com/Nikhith-gowda-s) | FastAPI · Groq · Supabase | AI career intelligence — resume analysis, skill gaps, cover letters |
-| [Satellite-IoT Alert System](https://github.com/Nikhith-gowda-s/KARNATA-PARVA_Google-Solution-Challenge) | IoT · Satellite Data | Early disaster alert — presented to ISRO scientists |
-| [Fake News Detector](https://github.com/Nikhith-gowda-s) | Python · AI | Built for Google Solution Challenge, selected for offline bootcamp |
-| [Hackathon_24BTRCP016](https://github.com/Nikhith-gowda-s/Hackathon_24BTRCP016) | Python | National finalist project — WAVES 2025 |
-
----
-
 ### 🔬 Research & Publications
 
 - 📄 **Intelligent Threat Analysis in Cyber-Physical Systems: A Review**  
@@ -86,17 +75,6 @@ Mission:            Build things that help people with limited access to tech
 ![GRC](https://img.shields.io/badge/Cybersecurity_GRC_(LinkedIn)-0077B5?style=flat&logo=linkedin&logoColor=white)
 
 ---
-
-### 📈 2026 Consistency Challenge
-
-> Starting **July 1, 2026** — daily commits, no breaks.
-
-```
-July 2026   → Python fundamentals (variables → OOP)
-August      → Python projects + OT/ICS security scripts
-September   → IEEE research paper + cybersecurity tools
-Oct – Dec   → Full project builds + placement prep
-```
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhith-gowda-s&theme=dark&hide_border=true)
 
@@ -122,5 +100,5 @@ Oct – Dec   → Full project builds + placement prep
 ---
 
 <div align="center">
-<i>"Building from scratch — because starting late is still starting."</i>
+<i>"Building from scratch."</i>
 </div>
