@@ -17,9 +17,9 @@
 ```yaml
 Name:               Nikhith Gowda S
 Location:           Bengaluru, Karnataka, India
-University:         JAIN (Deemed-to-be University) | CSE, 3rd Year
+University:         JAIN (Deemed-to-be University) | B.Tech in CSE, 3rd Year
 Specialization:     Cyber-Physical Systems (CPS)
-Currently_learning: [Python, OT/ICS Security, AI/ML, Git]
+Currently_learning: Python, OT/ICS Security, AI, Git
 Interning_at:       Jain University - Corporate Relations
 Goal:               Placement-ready by 2028 | Cybersecurity + AI Systems
 Mission:            Build things that help people with limited access to tech
